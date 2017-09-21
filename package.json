@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/timelaps/url#readme",
   "devDependencies": {
-    "@timelaps/batterie": "^1.0.71"
+    "@timelaps/batterie": "^1.0.73"
   },
   "dependencies": {
-    "@timelaps/array": "^1.0.5",
-    "@timelaps/fn": "^1.0.4",
-    "@timelaps/io": "^1.0.2",
-    "@timelaps/is": "^1.0.8",
-    "@timelaps/object": "^1.0.19",
-    "@timelaps/to": "^1.0.5"
+    "@timelaps/array": "^1.0.14",
+    "@timelaps/fn": "^1.0.16",
+    "@timelaps/io": "^1.0.6",
+    "@timelaps/is": "^1.0.14",
+    "@timelaps/object": "^1.0.20",
+    "@timelaps/to": "^1.0.9"
   }
 }
